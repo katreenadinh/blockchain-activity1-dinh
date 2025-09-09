@@ -45,6 +45,7 @@ class Block {
  }
 }
 
+
 /** A simple blockchain container */
 class Blockchain {
     constructor(difficulty = 3) {
